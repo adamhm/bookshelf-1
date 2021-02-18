@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @AllArgsConstructor
+@Getter
 public class Opinion {
 
     private final long id;
